@@ -1,15 +1,15 @@
-#CORE
+# CORE
 
-##Propósito del CORE
+## Propósito del CORE
 
-###Es el núcleo del laboratorio.
+### Es el núcleo del laboratorio.
 
 Contiene las estructuras y mecanismos fundamentales que permiten representar y procesar aquello que estoy investigando.
 
-##Límites del CORE
+## Límites del CORE
 No debe saber cómo se dibuja una entidad en pantalla ni cómo interactúa directamente con el usuario.
 
-###Responsabilidad del CORE
+### Responsabilidad del CORE
 Su responsabilidad es proporcionar las capacidades fundamentales del laboratorio.
 
 ---
